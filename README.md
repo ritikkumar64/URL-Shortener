@@ -7,7 +7,7 @@ https://www.loom.com/share/0386158517234931b2a6c1ed0ad05e99?sid=8241b6b6-c5ba-47
 
 
 
-https://github.com/aa0962/Url-Shortener-Website/assets/103809188/87bd34cb-cf4f-4ff8-a597-107227eb1428
+https://github.com/ritikkumar64/Url-Shortener-Website/assets/103809188/87bd34cb-cf4f-4ff8-a597-107227eb1428
 
 
 
@@ -53,13 +53,8 @@ Check out the video demo: [Demo Video](https://www.loom.com/share/03861585172349
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-Aryan Hedaoo - [LinkedIn](https://www.linkedin.com/in/aryan-hedaoo-93325b22b) -
--[GitHub](https://github.com/aa0962) -
--[Instagram](https://www.instagram.com/_aryan_hedaoo_/)
-
-Project Link: [https://github.com/aa0962/Url-Shortener-Website](https://github.com/aa0962/Url-Shortener-Website)
+Project Link: [https://github.com/ritikkumar64/Url-Shortener-Website](https://github.com/ritikkumar64/Url-Shortener-Website)
 ```
 
 ##Photos
